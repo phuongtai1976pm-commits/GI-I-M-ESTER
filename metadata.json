@@ -1,0 +1,6 @@
+{
+  "name": "Hành trình giải mã Ester",
+  "description": "Chuỗi liên hoàn game học tập chinh phục kiến thức Ester hóa học trực quan, sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
